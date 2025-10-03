@@ -1,21 +1,21 @@
-Ankush Toppo - Personal Portfolio
+## Ankush Toppo - Personal Portfolio
 Welcome to the source code for my personal portfolio website. This project showcases my skills, projects, and professional experience as a developer. It's built with modern web technologies to be fast, responsive, and visually appealing.
 
-✨ Live Demo ✨
-Suggestion: Replace the placeholder image above with a real screenshot of your awesome website!
+✨ Live Demo - https://ankush-portfolio-murex.vercel.app/ ✨
 
-🚀 Tech Stack
+
+## 🚀 Tech Stack
 This portfolio is built with a modern, efficient, and powerful stack:
 
-Framework: React (via Vite)
+## Framework: React (via Vite)
 
-Styling: Tailwind CSS
+## Styling: Tailwind CSS
 
-Animations: Framer Motion
+## Animations: Framer Motion
 
-Deployment: Vercel
+## Deployment: Vercel
 
-🛠️ Running This Project Locally
+```🛠️ Running This Project Locally
 If you'd like to run this project on your own machine, follow these simple steps:
 
 Clone the repository:
@@ -35,14 +35,14 @@ Start the development server:
 npm run dev
 
 The application will be available at http://localhost:5173.
-
+```
 📬 Contact
 I'm always open to connecting and discussing new opportunities.
 
-LinkedIn: [Your LinkedIn Profile URL]
+LinkedIn: https://www.linkedin.com/in/ankush-toppo25/
 
 GitHub: @codertoppo
 
-Email: [your.email@example.com]
+Email: ankushtoppo25@gmail.com
 
-This README was generated with assistance from Gemini.
+
